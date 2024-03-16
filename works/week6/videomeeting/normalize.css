@@ -229,3 +229,8 @@ html {
     display: none;
   }
   
+  
+  [hidden] {
+    display: none;
+  }
+  
